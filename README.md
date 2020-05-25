@@ -12,13 +12,13 @@
 <img src="/Telerik_GridData_Export/Img/cover.png"/>
 
 ### Data exported as xls
-<img src="Telerik_GridData_Export/Img/cover.png"/>
+<img src="Telerik_GridData_Export/Img/dataInSlx.png"/>
 
-### Daata exported as html
-<img src="Telerik_GridData_Export/Img/cover.png"/>
+### Daata exported as pdf
+<img src="Telerik_GridData_Export/Img/DataInPdf.png"/>
 
-### Data exported as pdf
-<img src="Telerik_GridData_Export/Img/cover.png"/>
+### Data exported as html
+<img src="Telerik_GridData_Export/Img/DataInHtml.png"/>
 
 ### Data exported as csv
-<img src="Telerik_GridData_Export/Img/cover.png"/>
+<img src="Telerik_GridData_Export/Img/DataInCsv.png"/>
